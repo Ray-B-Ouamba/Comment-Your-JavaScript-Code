@@ -1,19 +1,20 @@
 
 # LEGACY JAVASCRIPT ALGORITHMS AND DATA STRUCTURES
+We learned the fundamental of javascript-algorithms-and-data-structures.  
 
-We have build Ray's gallery Website so he can present his work and engage in marketing, branding, and interaction.
-
-**PROJECT LINK:** https://ray-b-ouamba.github.io/RAYFLAMME-GALLERY-WEBSITE/
+**PROJECT LINK:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
 
 **TECH USED:** 
-* HTML,
-* CSS.
-
-## OPTIMIZATIONS:
-* Add some JavaScript to make it more interactive.
-
+* JAVASCRIPT
+  
 ## LESSONS LEARNED:
-* Utilize CSS flex-box property. 
+* fundamental programming concepts in JavaScript:
+     * Comment Your JavaScript Code
+     * Declare JavaScript Variables
+     * Storing Values with the Assignment Operator
+     * Assigning the Value of One Variable to Another
+     * Initializing Variables with the Assignment Operator
+     * Declare String Variables
 
 ## SIMILAR PROJECT:
 
