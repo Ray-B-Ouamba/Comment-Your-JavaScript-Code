@@ -16,7 +16,7 @@ We learned the fundamental of javascript-algorithms-and-data-structures.
      * Initializing Variables with the Assignment Operator
      * Declare String Variables
 
-## SIMILAR PROJECT:
+## PROJECTS:
 
 **COFEE-CULTURE-MENU:** https://ray-b-ouamba.github.io/COFFEE-CULTURE-MENU/
 
