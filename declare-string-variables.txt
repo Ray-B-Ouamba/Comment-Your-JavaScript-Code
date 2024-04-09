@@ -1,0 +1,2 @@
+var myFirstName = "Ray";
+var myLastName = "BERJANY-OUAMBA";
