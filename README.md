@@ -1,6 +1,6 @@
 
 # LEGACY JAVASCRIPT ALGORITHMS AND DATA STRUCTURES
-We learned the fundamental of javascript-algorithms-and-data-structures
+We learned the fundamental of javascript-algorithms-and-data-structures. 
 
 **PROJECT LINK:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
 
